@@ -7,7 +7,7 @@ Imports Flexible Grid System ([flexible.gs](http://flexible.gs/)) Less code befo
 
 Install..
 
-Notice require Less v3.2.1 (download from github)
+Requires Less v2.4.0
 
 ```
 npm install -g less-plugin-flexiblegs
